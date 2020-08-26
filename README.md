@@ -1,3 +1,4 @@
 # TicToe
 Just game
-For playing on your computer you must download exe's file.
+
+—For playing on your computer you need download exe file.
